@@ -1,0 +1,14 @@
+[
+  {
+    "X-TIKA:Parsed-By": "org.apache.tika.parser.EmptyParser",
+    "X-TIKA:Parsed-By-Full-Set": "org.apache.tika.parser.EmptyParser",
+    "tika:file_ext": "",
+    "X-TIKA:parse_time_millis": "90",
+    "X-TIKA:embedded_depth": "0",
+    "tika_batch_fs:relative_path": "660870c3f3e8ff105e5cc06b3b3d04436118fc67533c93d0df56bde359e335d0/660870c3f3e8ff105e5cc06b3b3d04436118fc67533c93d0df56bde359e335d0",
+    "resourceName": "660870c3f3e8ff105e5cc06b3b3d04436118fc67533c93d0df56bde359e335d0",
+    "Content-Length": "229442",
+    "X-TIKA:digest:MD5": "b50d20250432e0fd9cd302295b5f9d3b",
+    "Content-Type": "application/octet-stream"
+  }
+]

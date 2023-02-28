@@ -9,3 +9,5 @@ and [Inquest's blog](https://inquest.net/blog/2023/02/27/youve-got-malware-rise-
 The commandline was `java -jar tika-app-2.7.1-SNAPSHOT.jar -J -t -i 2023-02-OneNote -o outputDirectory`.
 
 We had tesseract installed and it was applied to embedded images.
+
+For ease of human consumption, we manually prettified the JSON that was output by Tika.
